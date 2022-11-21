@@ -1,0 +1,1 @@
+self.live_surf.get_size()[0] + 10
